@@ -109,68 +109,59 @@ http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw
 #EXTINF:-1,Goshop2_55
 http://50.7.161.82:8277/streams/d/Goshop2/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
-https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
+#EXTM3U
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
-https://youtu.be/Hi7ybh87_e8 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/x33MwPN.png" group-title="Infantil",Retrô Cartoon
+http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 group-title="Kids",Animax
-http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="Kids",Aniplus
-http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="Kids",hip-hip-horee
-http://gpc.my.id/vidio/hip-hip-horee.m3u8
-#EXTINF:-1 group-title="Kids",zoomoo
-http://gpc.my.id/vidio/zoomoo.m3u8
-#EXTINF:-1 group-title="Kids",da-vinci
-http://gpc.my.id/vidio/da-vinci.m3u8
-#EXTINF:-1 group-title="Kids",horee
-http://gpc.my.id/vidio/horee.m3u8
-#EXTINF:-1 group-title="Kids",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 group-title="Kids",spacetoon
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Kids",indikids
-http://gpc.my.id/usee/indikids.m3u8
-#EXTINF:-1 group-title="Kids",mykids
-http://gpc.my.id/usee/mykids.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="Infantil",Baby TV
 
-#EXTINF:-1 group-title="Kids",Cartoon Network
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=cartoonnetwork&bandwidth=default&sync=0
-#EXTINF:-1 group-title="Kids",ToonMax
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1 group-title="Kids",Boomerang
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=boomerang&bandwidth=default&sync=0
-http://185.180.221.194:8278/streams/d/Boomerang/playlist.m3u8
-#EXTINF:-1 group-title="Kids",EBS
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
 
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+http://listaiptv.brcs.ml:8080/SD_BOOMERANG/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
 
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+http://listaiptv.brcs.ml:8080/SD_TOONCAST/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Youtube Chanel Santai Bareng IPTV
-https://r3---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1624368496&ei=EJHRYMrSJ76Gz7sP7_C54AM&ip=180.243.12.85&id=o-AJN_aqGW_C2E2UEn4WeFGeowucemgS1zbqu-wVO9ewrS&itag=22&source=youtube&requiressl=yes&mh=1_&mm=31%2C29&mn=sn-2uuxa3vh-jb3y%2Csn-npoe7nl6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=20&initcwndbps=603750&vprv=1&mime=video%2Fmp4&ns=uIHFUpOg2U6RvUTqccSMfD0F&cnr=14&ratebypass=yes&dur=12.353&lmt=1624110376073887&mt=1624346444&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=6211224&n=23401SHWlzq9fFlbD&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmuj9SclhU1qWbPzN0i9cTwTP3iolZS0YMPZ33UIIZ6AiBTSPm0wIIGXQlVKghedAb6mY-fI_3K9-pvK76C1LNw7w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgFYUtIcaN9KUia75NdAP3juam_s7JTiztTOT7tQBPHIkCIQD4LpRjtgJUH0Ip54Fc-EVhsoPv47Yp825uDgGg-_ftNg%3D%3D
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",Playlist Ini Gratis, Tidak Untuk Diperjual Belikan
-https://youtu.be/Hi7ybh87_e8 
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon HD
+http://listaiptv.brcs.ml:8080/SD_NICKELODEON/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
 
-#EXTINF:0 group-title="Movies",FoxMovies
-http://iptv.tvmalaysia.cc:80/penang188/penang188/8838
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:0 group-title="Movies",Fox Action Movies
-http://iptv.tvmalaysia.cc:80/penang188/penang188/8839
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:0 group-title="Movies",Foxlife
-https://link.zozotv.xyz:443/Freemium4/unlimited99/92
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:0 group-title="Movies",FoxFamilyMovie
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/chunks.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-https://link.zozotv.xyz:443/Freemium4/unlimited99/102
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:0 group-title="Movies",Fox HD
-https://link.zozotv.xyz:443/Freemium4/unlimited99/90
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:0 group-title="Movies",Fox Crime
-http://iptv.tvmalaysia.cc:80/737373/737373/7225
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="Infantil",Nick Jr.
+http://listaiptv.brcs.ml:8080/SD_NICK_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob
+http://listaiptv.brcs.ml:8080/SD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob HD
+http://listaiptv.brcs.ml:8080/HD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network
+http://95.141.35.104:8081/look/cartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
+http://listaiptv.brcs.ml:8080/HD_CARTOON_NETWORK/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD HD
+http://listaiptv.brcs.ml:8080/SD_DISNEY_XD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
+http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
+http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="Infantil",Disney Junior
+http://listaiptv.brcs.ml:8080/SD_DISNEY_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel
+http://listaiptv.brcs.ml:8080/SD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel HD
+http://listaiptv.brcs.ml:8080/HD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
