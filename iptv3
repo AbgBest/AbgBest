@@ -194,18 +194,7 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1,PLTV_96
 http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
 #EXTINF:-1,iptvtools_97
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1,iptvtools_98
 http://223.110.245.139/PLTV/4/224/3221227009/index.m3u8
-#EXTINF:-1,xuandongkaton_99
-http://117.169.124.37:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
-#EXTINF:-1,zohi.tv_100
+#EXTINF:-1,zohi.tv_98
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1,donghuawg_101
-http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
+
