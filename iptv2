@@ -19,6 +19,8 @@ http://50.7.161.82:8277/streams/d/Alhijrah/playlist.m3u8
 http://50.7.161.82:8277/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1,astroprima_10
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
+#EXTINF:-1,astroria_10-1
+http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1,astrooasis_11
 http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1,astrocitra_12
@@ -109,59 +111,95 @@ http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw
 #EXTINF:-1,Goshop2_55
 http://50.7.161.82:8277/streams/d/Goshop2/playlist.m3u8
+
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/x33MwPN.png" group-title="Infantil",Retrô Cartoon
-http://stmv2.srvstm.com:1935/cartoonr/cartoonr/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/dmcu8wn69/Baby_TV.png" group-title="Infantil",Baby TV
-
-#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
-
-#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
-http://listaiptv.brcs.ml:8080/SD_BOOMERANG/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
-http://listaiptv.brcs.ml:8080/SD_TOONCAST/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
-http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon HD
-http://listaiptv.brcs.ml:8080/SD_NICKELODEON/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="Infantil",Nick Jr.
-http://listaiptv.brcs.ml:8080/SD_NICK_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob
-http://listaiptv.brcs.ml:8080/SD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="Infantil",Gloob HD
-http://listaiptv.brcs.ml:8080/HD_GLOOB/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network
-http://95.141.35.104:8081/look/cartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="Infantil",Cartoon Network HD
-http://listaiptv.brcs.ml:8080/HD_CARTOON_NETWORK/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD
-http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="Infantil",Disney XD HD
-http://listaiptv.brcs.ml:8080/SD_DISNEY_XD/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
-http://95.141.35.104:8081/look/discoverykids1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids HD
-http://listaiptv.brcs.ml:8080/HD_DISCOVERY_KIDS/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="Infantil",Disney Junior
-http://listaiptv.brcs.ml:8080/SD_DISNEY_JR/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel
-http://listaiptv.brcs.ml:8080/SD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="Infantil",Disney Channel HD
-http://listaiptv.brcs.ml:8080/HD_DISNEY/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+#EXTINF:-1,unknown_56
+https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e
+#EXTINF:-1,platinum-tv_57
+http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
+#EXTINF:-1,amagitv_58
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,ottera.tv_59
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1,Chinolatv_60
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+#EXTINF:-1,Roku_Cocoro_61
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1,ducktv_62
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,ebsonair_63
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,ebsonairios_64
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:-1,BITRATE0_65
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1,xumo_66
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+#EXTINF:-1,catcast_67
+https://v3.catcast.tv/content/38105/index.m3u8
+#EXTINF:-1,gulli_68
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1,get-tv_69
+https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a000001659f94a58c4010a1851980b99d4d/160x160
+#EXTINF:-1,gulli_girl_70
+http://188.40.68.167/russia/gulli_girl/playlist.m3u8
+#EXTINF:-1,happykids-1_71
+https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,happykidsjunior_72
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,KartoonCircus_73
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:-1,kidoodletv-kdtv_74
+http://kidoodletv-kdtv-3.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,kidshd_75
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1,catcast_76
+https://v3.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1,kkids3_77
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1,legochannel-roku_78
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,legochannel-vizio_79
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Roku_NewKID_80
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF:-1,BabySharkTV_81
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1,Nick_82
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1,sat7kids_83
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1,TAHA-TV_84
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1,tvokids_85
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1,CartoonNetwork_86
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1,zoomoo_87
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,disney_88
+http://188.40.68.167/russia/disney/playlist.m3u8
+#EXTINF:-1,iptvtools_89
+http://91.185.3.218:4000/play/604
+#EXTINF:-1,sc.id-tv_90
+https://sc.id-tv.kz/o.m3u8
+#EXTINF:-1,get-tv-channel_91
+https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a000001704427a91257203d4045e4fd2f2e/170x100
+#EXTINF:-1,bonus-tv_92
+https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/playlist.m3u8
+#EXTINF:-1,WEB_Smilik_93
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1,bsttv_94
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1,PLTV_95
+http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
+#EXTINF:-1,iptvtools_96
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1,iptvtools_97
+http://223.110.245.139/PLTV/4/224/3221227009/index.m3u8
+#EXTINF:-1,xuandongkaton_98
+http://117.169.124.37:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
+#EXTINF:-1,zohi.tv_99
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1,donghuawg_100
+http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
